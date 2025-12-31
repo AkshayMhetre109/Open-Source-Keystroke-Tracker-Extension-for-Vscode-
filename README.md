@@ -6,10 +6,15 @@ The Keystroke Tracker monitors genuine manual typing activity by intelligently f
 
 Key Features:
 Accurate manual keystroke detection with smart filtering
+
 Persistent per-file tracking across VSCode sessions
+
 Real-time status bar display
+
 Detailed timestamped logs with line/column positions
+
 Lightweight performance with minimal memory footprint
+
 Privacy-focused (counts keystrokes without capturing code content)
 
 Supported File Types:
