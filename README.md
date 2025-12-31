@@ -17,6 +17,8 @@ Lightweight performance with minimal memory footprint
 
 Privacy-focused (counts keystrokes without capturing code content)
 
+Distinguishing between manually written code and AI-assisted suggestions
+
 **Supported File Types:**
 .c, .cpp, .py, .js, .ts, .java, .html, .css, .json, .md
 
